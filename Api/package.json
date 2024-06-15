@@ -1,0 +1,17 @@
+{
+  "name": "api_adm_money",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "cassio",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

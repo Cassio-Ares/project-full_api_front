@@ -16,3 +16,16 @@ app.get('/test', (_, res)=>{
 app.listen(8080, ()=>{
     console.log('Escutando na porta 8080');
 })
+
+/**
+ * Inicio da organização de pastas 
+ * 
+ *   * modules
+ *      * user
+ *         - user.model.js
+ *         - user.route.js
+ *            extras index.js
+ *    
+ *     * service
+ *        - knex.js   conexão com banco de dados
+ */

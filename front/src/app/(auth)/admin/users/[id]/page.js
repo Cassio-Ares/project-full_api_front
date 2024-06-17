@@ -7,3 +7,7 @@ export const UserEditPage = ({params}) => {
 }
 
 export default UserEditPage;
+
+/**
+ * esta rota dinamina muda as informações a partir do id que a url fornece.
+ */
